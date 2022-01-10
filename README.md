@@ -1,4 +1,4 @@
-# PYTHON_CRASH-_COURSE
+# PYTHON_CRASH_COURSE
 
 B r i e f C o n t e n t s
 
