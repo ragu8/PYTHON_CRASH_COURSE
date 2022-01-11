@@ -3,6 +3,7 @@
 B r i e f C o n t e n t s
 
 Part I: Basics
+---------------
 
 Chapter 1: Getting Started
 
