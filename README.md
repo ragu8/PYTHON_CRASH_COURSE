@@ -1,4 +1,4 @@
-# ![1642055752616.png](image/README/1642055752616.png)PYTHON_CRASH_COURSE
+PYTHON_CRASH_COURSE
 
 B r i e f C o n t e n t s
 
@@ -28,4 +28,4 @@ Chapter 10: Files and Exceptions
 Chapter 11: Testing Your Code
 
 
-![1642055889314.png](image/README/1642055889314.png)
+
