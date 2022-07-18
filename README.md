@@ -1,6 +1,6 @@
 PYTHON_CRASH_COURSE
 
-B r i e f C o n t e n t s
+B r i e f C o n t e n t s    
 
 Part I: Basics
 --------------
@@ -24,3 +24,6 @@ Chapter 8: Functions
 Chapter 9: Classes
 
 Chapter 10: Files and Exceptions
+
+
+
