@@ -24,6 +24,3 @@ Chapter 8: Functions
 Chapter 9: Classes
 
 Chapter 10: Files and Exceptions
-
-
-
